@@ -3,7 +3,7 @@
 </h2>
 <p>
 Welcome to the MERN Chat Application! This project is a real-time chat application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js).
-
+<br>
 Features
 Real-time Messaging: Instant messaging between users.
 User Authentication: Sign up and login functionality.
