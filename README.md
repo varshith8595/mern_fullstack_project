@@ -15,5 +15,4 @@ Frontend: React.js, Socket.io-client<br>
 Backend: Node.js, Express.js, Socket.io<br>
 Database: MongoDB, Mongoose<br>
 Authentication: JWT (JSON Web Tokens)<br>
-Styling: CSS, Bootstrap<br>
 </p>
