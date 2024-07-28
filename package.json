@@ -27,7 +27,7 @@
     "nodemon": "^3.0.1",
     "socket.io": "^4.7.2"
   },
-  "devDependencies": {
+  "devDependencies":{
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
