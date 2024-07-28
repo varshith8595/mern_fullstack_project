@@ -35,7 +35,7 @@ function Homepage() {
         textAlign="center"
       >
         <Text fontSize="3xl" fontFamily="Work Sans" fontWeight="bold">
-          Messenger
+          Campus Connect
         </Text>
       </Box>
       <Box
